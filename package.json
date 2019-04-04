@@ -1,0 +1,22 @@
+{
+  "name": "holdonjs",
+  "version": "1.0.0",
+  "description": "HoldOn.js is a simple plugin that allows you to draw a div that covers all the screen and will prevent that the user clicks on element on the background while something is executed in the background.",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manchomurgan/HoldOn.js.git"
+  },
+  "keywords": [
+    "HoldOn.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manchomurgan/HoldOn.js/issues"
+  },
+  "homepage": "https://github.com/manchomurgan/HoldOn.js#readme"
+}
